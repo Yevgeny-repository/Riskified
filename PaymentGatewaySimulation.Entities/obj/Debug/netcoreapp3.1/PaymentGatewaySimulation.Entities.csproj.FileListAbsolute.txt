@@ -1,0 +1,8 @@
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\bin\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.deps.json
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\bin\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.dll
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\bin\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.pdb
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\obj\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.AssemblyInfoInputs.cache
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\obj\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.AssemblyInfo.cs
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\obj\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\obj\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.dll
+C:\Users\Jenia\source\repos\PaymentGatewaySimulation\PaymentGatewaySimulation.Entities\obj\Debug\netcoreapp3.1\PaymentGatewaySimulation.Entities.pdb
